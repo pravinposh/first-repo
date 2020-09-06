@@ -1,1 +1,1 @@
-This is my firs trepo on github
+This is my first repo on github.
